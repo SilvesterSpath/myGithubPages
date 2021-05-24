@@ -9,12 +9,12 @@ const links = [
   'https://silvesterspath.github.io/Animated-Navigation/',
   'https://silvesterspath.github.io/Random-Picker/',
   'https://silvesterspath.github.io/How-many-Drinks/',
-  'https://github.com/SilvesterSpath/FAQ-Collapse.git',
-  'https://github.com/SilvesterSpath/Progress-steps.git',
-  'https://github.com/SilvesterSpath/Blurry-loading.git',
-  'https://github.com/SilvesterSpath/Wave-Effect.git',
-  'https://github.com/SilvesterSpath/Search-Widget.git',
-  'https://github.com/SilvesterSpath/Event-keyCodes.git',
+  'https://silvesterspath.github.io/FAQ-Collapse/',
+  'https://silvesterspath.github.io/Progress-steps/',
+  'https://silvesterspath.github.io/Blurry-loading/',
+  'https://silvesterspath.github.io/Wave-Effect/',
+  'https://silvesterspath.github.io/Search-Widget/',
+  'https://silvesterspath.github.io/Event-keyCodes/',
 ];
 
 const images = [
