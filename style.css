@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
+
+@font-face {
+  font-family: 'TopSecret';
+  src: url('./res/TopSecretRegularSWFTE.woff2') format('woff2'),
+    url('./res/TopSecretRegularSWFTE.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #646971;
+  font-family: 'TopSecret', cursive;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  overflow-x: hidden;
+  color: white;
+}
+
+.scroll {
+  position: relative;
+  transition: visibility 1.6s ease;
+}
+
+h1 {
+  margin-top: 70px;
+}
+
+p {
+  position: fixed;
+  bottom: 100px;
+  right: 110px;
+}
+
+#arrow {
+  position: fixed;
+  bottom: 90px;
+  right: 120px;
+}
+
+#arrow-down {
+  position: fixed;
+  bottom: 80px;
+  right: 117px;
+}
+
+#arrow-up {
+  position: fixed;
+  bottom: 95px;
+  right: 116px;
+}
+
+.box {
+  background-color: steelblue;
+  background-repeat: no-repeat;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 200px;
+  height: 245px;
+  margin: 10px;
+  border-radius: 10px;
+  box-shadow: 2px 4px 5px rgba(0, 0, 0, 0.3);
+  transform: translateX(500%);
+  transition: transform 0.4s ease;
+}
+
+.box:nth-of-type(even) {
+  transform: translateX(-500%);
+}
+
+.box.show {
+  transform: translateX(0);
+}
+
+a {
+  position: relative;
+  color: white;
+  text-decoration: none;
+  font-weight: 700;
+  border: none;
+  opacity: 0.8;
+}
+
+a:active {
+  box-shadow: none;
+}
+
+a:hover {
+  opacity: 0.6;
+}
+
+h3 {
+  position: absolute;
+  bottom: -5px;
+  color: rgb(0, 0, 0, 1);
+  padding: 0px 8px;
+  font-weight: bolder;
+  border-radius: 8px;
+}
