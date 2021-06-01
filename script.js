@@ -15,6 +15,7 @@ const links = [
   'https://silvesterspath.github.io/Wave-Effect/',
   'https://silvesterspath.github.io/Search-Widget/',
   'https://silvesterspath.github.io/Event-keyCodes/',
+  'https://silvesterspath.github.io/Rotating-Clock/',
 ];
 
 const images = [
@@ -30,6 +31,7 @@ const images = [
   './img/login.png',
   './img/search.png',
   './img/keycode.png',
+  './img/clock.png',
 ];
 
 const texts = [
@@ -45,6 +47,7 @@ const texts = [
   'Wave Login',
   'Search Collapse',
   'KeyCodes',
+  'Needle Clock',
 ];
 
 window.addEventListener('scroll', checkBoxes);
