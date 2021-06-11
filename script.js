@@ -4,6 +4,7 @@ const scroll = document.querySelector('.scroll');
 console.log(container);
 
 const links = [
+  'https://spathcontacts.herokuapp.com/login#!',
   'https://silvesterspath.github.io/github_finder/',
   'https://silvesterspath.github.io/MovieTime/',
   'https://silvesterspath.github.io/Incrementing-Counter/',
@@ -21,6 +22,7 @@ const links = [
 ];
 
 const images = [
+  './img/mycontacts.png',
   './img/github_finder.png',
   './img/movie.png',
   './img/counter.png',
@@ -38,6 +40,7 @@ const images = [
 ];
 
 const texts = [
+  'Full-Stack MERN',
   'Gihub Finder',
   'Find Your Movies',
   'Incrementing Counter',
