@@ -1,6 +1,7 @@
 const boxes = document.querySelectorAll('.box');
+const container = document.querySelector('.box-container');
 const scroll = document.querySelector('.scroll');
-console.log(scroll);
+console.log(container);
 
 const links = [
   'https://silvesterspath.github.io/github_finder/',
@@ -16,6 +17,7 @@ const links = [
   'https://silvesterspath.github.io/Search-Widget/',
   'https://silvesterspath.github.io/Event-keyCodes/',
   'https://silvesterspath.github.io/Rotating-Clock/',
+  'https://silvesterspath.github.io/Ripple-Effect/',
 ];
 
 const images = [
@@ -32,6 +34,7 @@ const images = [
   './img/search.png',
   './img/keycode.png',
   './img/clock.png',
+  './img/ripple.png',
 ];
 
 const texts = [
@@ -48,6 +51,7 @@ const texts = [
   'Search Collapse',
   'KeyCodes',
   'Needle Clock',
+  'Ripple Effect',
 ];
 
 window.addEventListener('scroll', checkBoxes);
