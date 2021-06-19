@@ -21,6 +21,7 @@ const links = [
   'https://silvesterspath.github.io/Rotating-Clock/',
   'https://silvesterspath.github.io/Ripple-Effect/',
   'https://silvesterspath.github.io/Drag-and-Drop/',
+  '',
 ];
 
 const images = [
@@ -41,6 +42,7 @@ const images = [
   './img/clock.png',
   './img/ripple.png',
   './img/dragdrop.png',
+  './img/inprogress.jpg',
 ];
 
 const texts = [
@@ -61,6 +63,7 @@ const texts = [
   'Needle Clock',
   'Ripple Effect',
   'Drag & Drop',
+  'Coming soon...',
 ];
 
 window.addEventListener('scroll', checkBoxes);
