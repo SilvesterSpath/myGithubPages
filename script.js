@@ -88,11 +88,9 @@ function checkBoxes() {
     if (boxTop < trigger) {
       i.classList.add('show');
       count++;
-      console.log(count);
     } else {
       i.classList.remove('show');
       count--;
-      console.log(count);
     }
     if (count > 9) {
       scroll.children[3].style.visibility = 'hidden';
