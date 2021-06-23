@@ -21,6 +21,7 @@ const links = [
   'https://silvesterspath.github.io/Rotating-Clock/',
   'https://silvesterspath.github.io/Ripple-Effect/',
   'https://silvesterspath.github.io/Drag-and-Drop/',
+  'https://silvesterspath.github.io/Exchange-Rate-Calculator/',
   '',
 ];
 
@@ -42,6 +43,7 @@ const images = [
   './img/clock.png',
   './img/ripple.png',
   './img/dragdrop.png',
+  './img/exchange.png',
   './img/inprogress.jpg',
 ];
 
@@ -63,6 +65,7 @@ const texts = [
   'Needle Clock',
   'Ripple Effect',
   'Drag & Drop',
+  'Exchange Rate Calc',
   'Coming soon...',
 ];
 
