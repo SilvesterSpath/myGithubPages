@@ -23,6 +23,7 @@ const links = [
   'https://silvesterspath.github.io/Drag-and-Drop/',
   'https://silvesterspath.github.io/Exchange-Rate-Calculator/',
   'https://silvesterspath.github.io/Drawing-App/',
+  'https://silvesterspath.github.io/DOM-Array-Methods/',
   '',
 ];
 
@@ -46,6 +47,7 @@ const images = [
   './img/dragdrop.png',
   './img/exchange.png',
   './img/drawing.png',
+  './img/methods.png',
   './img/inprogress.jpg',
 ];
 
@@ -69,6 +71,7 @@ const texts = [
   'Drag & Drop',
   'Exchange Rate Calc',
   'Draw Your Circles!',
+  'Array Methods',
   'Coming soon...',
 ];
 
