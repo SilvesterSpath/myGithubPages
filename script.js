@@ -4,7 +4,6 @@ const scroll = document.querySelector('.scroll');
 console.log(container);
 
 const links = [
-  'https://spathcontacts.herokuapp.com/login#!',
   'https://silvesterspath.github.io/github_finder/',
   'https://silvesterspath.github.io/MovieTime/',
   'https://silvesterspath.github.io/Book-My-Movie/',
@@ -23,12 +22,12 @@ const links = [
   'https://silvesterspath.github.io/Drag-and-Drop/',
   'https://silvesterspath.github.io/Exchange-Rate-Calculator/',
   'https://silvesterspath.github.io/Drawing-App/',
+  /* 'https://spathcontacts.herokuapp.com/login#!', */
   'https://silvesterspath.github.io/DOM-Array-Methods/',
   '',
 ];
 
 const images = [
-  './img/mycontacts.png',
   './img/github_finder.png',
   './img/movie.png',
   './img/BookMyMovie.png',
@@ -47,12 +46,12 @@ const images = [
   './img/dragdrop.png',
   './img/exchange.png',
   './img/drawing.png',
+  /* './img/mycontacts.png', */
   './img/methods.png',
   './img/inprogress.jpg',
 ];
 
 const texts = [
-  'Full-Stack MERN',
   'Gihub Finder',
   'Find Your Movies',
   'Book My Movie',
@@ -71,6 +70,7 @@ const texts = [
   'Drag & Drop',
   'Exchange Rate Calc',
   'Draw Your Circles!',
+  /* 'Full-Stack MERN', */
   'Array Methods',
   'Coming soon...',
 ];
