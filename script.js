@@ -4,6 +4,7 @@ const scroll = document.querySelector('.scroll');
 console.log(container);
 
 const links = [
+  'https://silvesterspath.github.io/Meal-Finder/',
   'https://silvesterspath.github.io/Landing-Page/',
   'https://silvesterspath.github.io/github_finder/',
   'https://silvesterspath.github.io/MovieTime/',
@@ -29,6 +30,7 @@ const links = [
 ];
 
 const images = [
+  './img/meal.png',
   './img/landing.png',
   './img/github_finder.png',
   './img/movie.png',
@@ -54,6 +56,7 @@ const images = [
 ];
 
 const texts = [
+  'Find Your Meal',
   'Your Landing Page',
   'Gihub Finder',
   'Find Your Movies',
