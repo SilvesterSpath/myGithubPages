@@ -4,6 +4,7 @@ const scroll = document.querySelector('.scroll');
 console.log(container);
 
 const links = [
+  'https://silvesterspath.github.io/Expense-Tracker/',
   'https://silvesterspath.github.io/Meal-Finder/',
   'https://silvesterspath.github.io/Landing-Page/',
   'https://silvesterspath.github.io/github_finder/',
@@ -30,6 +31,7 @@ const links = [
 ];
 
 const images = [
+  './img/expenses.png',
   './img/meal.png',
   './img/landing.png',
   './img/github_finder.png',
@@ -56,6 +58,7 @@ const images = [
 ];
 
 const texts = [
+  'Your Expenses',
   'Find Your Meal',
   'Your Landing Page',
   'Gihub Finder',
