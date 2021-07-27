@@ -4,6 +4,8 @@ const scroll = document.querySelector('.scroll');
 console.log(container);
 
 const links = [
+  'https://silvesterspath.github.io/Infinite-Blog/',
+  'https://spathcontacts.herokuapp.com/login#!',
   'https://silvesterspath.github.io/Expense-Tracker/',
   'https://silvesterspath.github.io/Meal-Finder/',
   'https://silvesterspath.github.io/Landing-Page/',
@@ -25,12 +27,13 @@ const links = [
   'https://silvesterspath.github.io/Drag-and-Drop/',
   'https://silvesterspath.github.io/Exchange-Rate-Calculator/',
   'https://silvesterspath.github.io/Drawing-App/',
-  /* 'https://spathcontacts.herokuapp.com/login#!', */
   'https://silvesterspath.github.io/DOM-Array-Methods/',
   '',
 ];
 
 const images = [
+  './img/blog.png',
+  './img/mycontacts.png',
   './img/expenses.png',
   './img/meal.png',
   './img/landing.png',
@@ -58,6 +61,8 @@ const images = [
 ];
 
 const texts = [
+  'Infinite Blog',
+  'Full-Stack MERN',
   'Your Expenses',
   'Find Your Meal',
   'Your Landing Page',
