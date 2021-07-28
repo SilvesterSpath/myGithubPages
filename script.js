@@ -4,6 +4,7 @@ const scroll = document.querySelector('.scroll');
 console.log(container);
 
 const links = [
+  'https://spathmessages.herokuapp.com/#!',
   'https://silvesterspath.github.io/Infinite-Blog/',
   'https://spathcontacts.herokuapp.com/login#!',
   'https://silvesterspath.github.io/Expense-Tracker/',
@@ -32,6 +33,7 @@ const links = [
 ];
 
 const images = [
+  './img/messages.png',
   './img/blog.png',
   './img/mycontacts.png',
   './img/expenses.png',
@@ -55,12 +57,12 @@ const images = [
   './img/dragdrop.png',
   './img/exchange.png',
   './img/drawing.png',
-  /* './img/mycontacts.png', */
   './img/methods.png',
   './img/inprogress.jpg',
 ];
 
 const texts = [
+  'My MERN Messages',
   'Infinite Blog',
   'Full-Stack MERN',
   'Your Expenses',
