@@ -33,7 +33,7 @@ const links = [
 ];
 
 const images = [
-  './img/messages.png',
+  './img/messages_.png',
   './img/blog.png',
   './img/mycontacts.png',
   './img/expenses.png',
@@ -86,7 +86,6 @@ const texts = [
   'Drag & Drop',
   'Exchange Rate Calc',
   'Draw Your Circles!',
-  /* 'Full-Stack MERN', */
   'Array Methods',
   'Coming soon...',
 ];
