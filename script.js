@@ -4,6 +4,7 @@ const scroll = document.querySelector('.scroll');
 console.log(container);
 
 const links = [
+  'https://silvesterspath.github.io/Veritcal-Slider/',
   'https://spathmessages.herokuapp.com/#!',
   'https://silvesterspath.github.io/Infinite-Blog/',
   'https://spathcontacts.herokuapp.com/login#!',
@@ -33,6 +34,7 @@ const links = [
 ];
 
 const images = [
+  './img/slider.png',
   './img/messages_.png',
   './img/blog.png',
   './img/mycontacts.png',
@@ -62,6 +64,7 @@ const images = [
 ];
 
 const texts = [
+  'Vertical Slider',
   'My MERN Messages',
   'Infinite Blog',
   'Full-Stack MERN',
