@@ -39,7 +39,7 @@ const images = [
   './img/slider.png',
   './img/messages_.png',
   './img/blog.png',
-  './img/mycontacts.png',
+  './img/contacts.png',
   './img/expenses.png',
   './img/meal.png',
   './img/landing.png',
