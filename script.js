@@ -4,10 +4,10 @@ const scroll = document.querySelector('.scroll');
 console.log(container);
 
 const links = [
-  'https://spathnotionapi.herokuapp.com/',
   'https://silvesterspath.github.io/Veritcal-Slider/',
   'https://spathmessages.herokuapp.com/#!',
   'https://silvesterspath.github.io/Infinite-Blog/',
+  'https://spathnotionapi.herokuapp.com/',
   'https://spathcontacts.herokuapp.com/login#!',
   'https://silvesterspath.github.io/Expense-Tracker/',
   'https://silvesterspath.github.io/Meal-Finder/',
@@ -35,10 +35,10 @@ const links = [
 ];
 
 const images = [
-  './img/notion.png',
   './img/slider.png',
   './img/messages_.png',
   './img/blog.png',
+  './img/notion_.png',
   './img/contacts.png',
   './img/expenses.png',
   './img/meal.png',
@@ -66,10 +66,10 @@ const images = [
 ];
 
 const texts = [
-  'My Notion API',
   'Vertical Slider',
   'My MERN Messages',
   'Infinite Blog',
+  'My Notion API',
   'Full-Stack MERN',
   'Your Expenses',
   'Find Your Meal',
