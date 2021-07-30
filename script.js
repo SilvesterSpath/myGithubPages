@@ -4,6 +4,7 @@ const scroll = document.querySelector('.scroll');
 console.log(container);
 
 const links = [
+  'https://spathnotionapi.herokuapp.com/',
   'https://silvesterspath.github.io/Veritcal-Slider/',
   'https://spathmessages.herokuapp.com/#!',
   'https://silvesterspath.github.io/Infinite-Blog/',
@@ -34,6 +35,7 @@ const links = [
 ];
 
 const images = [
+  './img/notion.png',
   './img/slider.png',
   './img/messages_.png',
   './img/blog.png',
@@ -64,6 +66,7 @@ const images = [
 ];
 
 const texts = [
+  'My Notion API',
   'Vertical Slider',
   'My MERN Messages',
   'Infinite Blog',
