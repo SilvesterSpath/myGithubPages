@@ -4,7 +4,7 @@ const scroll = document.querySelector('.scroll');
 console.log(container);
 
 const links = [
-  'https://silvesterspath.github.io/Veritcal-Slider/',
+  'https://silvesterspath.github.io/Vertical-Slider-Mod/',
   'https://spathmessages.herokuapp.com/#!',
   'https://silvesterspath.github.io/Infinite-Blog/',
   'https://spathnotionapi.herokuapp.com/',
