@@ -5,7 +5,7 @@ console.log(container);
 
 const links = [
   'https://silvesterspath.github.io/Vertical-Slider-Mod/',
-  'https://spathmessages.herokuapp.com/#!',
+  'https://messagespath.herokuapp.com/#!',
   'https://silvesterspath.github.io/Infinite-Blog/',
   'https://spathnotionapi.herokuapp.com/',
   'https://spathcontacts.herokuapp.com/login#!',
