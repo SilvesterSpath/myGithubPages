@@ -4,11 +4,11 @@ const scroll = document.querySelector('.scroll');
 console.log(container);
 
 const links = [
-  'https://silvesterspath.github.io/Vertical-Slider-Mod/',
-  'https://messagespath.herokuapp.com/#!',
+  'https://silvesterspath.github.io/Full-stack-MERN/',
+  /* 'https://messagespath.herokuapp.com/#!', */
   'https://silvesterspath.github.io/Infinite-Blog/',
-  'https://spathnotionapi.herokuapp.com/',
-  'https://spathcontacts.herokuapp.com/login#!',
+  /* 'https://spathnotionapi.herokuapp.com/', */
+  /* 'https://spathcontacts.herokuapp.com/login#!', */
   'https://silvesterspath.github.io/Expense-Tracker/',
   'https://silvesterspath.github.io/Meal-Finder/',
   'https://silvesterspath.github.io/Landing-Page/',
@@ -34,11 +34,11 @@ const links = [
 ];
 
 const images = [
-  './img/slider.png',
-  './img/messages_.png',
+  './img/full-stack.png',
+  /*   './img/messages_.png', */
   './img/blog.png',
-  './img/notion_.png',
-  './img/contacts.png',
+  /*   './img/notion_.png',
+  './img/contacts.png', */
   './img/expenses.png',
   './img/meal.png',
   './img/landing.png',
@@ -64,11 +64,11 @@ const images = [
 ];
 
 const texts = [
-  'Vertical Slider',
-  'My MERN Messages',
-  'Infinite Blog',
-  'My Notion API',
   'Full-Stack MERN',
+  /* 'My MERN Messages', */
+  'Infinite Blog',
+  /*   'My Notion API',
+  'Full-Stack MERN', */
   'Your Expenses',
   'Find Your Meal',
   'Your Landing Page',
