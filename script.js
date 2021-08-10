@@ -67,7 +67,7 @@ const images = [
 
 const texts = [
   'Full-Stack MERN',
-  'Full-Stack MEAN',
+  'First Angular PRJ',
   /* 'My MERN Messages', */
   'Infinite Blog',
   /*   'My Notion API',
