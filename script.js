@@ -4,8 +4,8 @@ const scroll = document.querySelector('.scroll');
 console.log(container);
 
 const links = [
-  'https://silvesterspath.github.io/DevLogger/#',
   'https://silvesterspath.github.io/Full-stack-MERN/',
+  'https://silvesterspath.github.io/DevLogger/#',
   /* 'https://messagespath.herokuapp.com/#!', */
   'https://silvesterspath.github.io/Infinite-Blog/',
   /* 'https://spathnotionapi.herokuapp.com/', */
@@ -35,8 +35,8 @@ const links = [
 ];
 
 const images = [
-  './img/devlogger.png',
   './img/full-stack.png',
+  './img/devlogger.png',
   /*   './img/messages_.png', */
   './img/blog.png',
   /*   './img/notion_.png',
@@ -66,8 +66,8 @@ const images = [
 ];
 
 const texts = [
-  'Full-Stack MEAN',
   'Full-Stack MERN',
+  'Full-Stack MEAN',
   /* 'My MERN Messages', */
   'Infinite Blog',
   /*   'My Notion API',
