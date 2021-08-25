@@ -33,7 +33,7 @@ const links = [
 
 const images = [
   './img/full-stack.png',
-  './img/full-stack-mean.png',
+  './img/mean_stack.png',
   './img/blog.png',
   './img/expenses.png',
   './img/meal.png',
