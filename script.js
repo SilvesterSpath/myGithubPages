@@ -4,8 +4,8 @@ const scroll = document.querySelector('.scroll');
 console.log(container);
 
 const links = [
-  'https://silvesterspath.github.io/Full-stack-MEAN/',
   'https://silvesterspath.github.io/Full-stack-MERN/',
+  'https://silvesterspath.github.io/Full-stack-MEAN/',
   'https://silvesterspath.github.io/Infinite-Blog/',
   'https://silvesterspath.github.io/Expense-Tracker/',
   'https://silvesterspath.github.io/Meal-Finder/',
@@ -32,8 +32,8 @@ const links = [
 ];
 
 const images = [
-  './img/full-stack-mean.png',
   './img/full-stack.png',
+  './img/full-stack-mean.png',
   './img/blog.png',
   './img/expenses.png',
   './img/meal.png',
@@ -60,8 +60,8 @@ const images = [
 ];
 
 const texts = [
-  'Full-Stack MEAN',
   'Full-Stack MERN',
+  'Full-Stack MEAN',
   'Infinite Blog',
   'Your Expenses',
   'Find Your Meal',
