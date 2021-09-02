@@ -12,7 +12,7 @@ const links = [
   'https://silvesterspath.github.io/Meal-Finder/',
   'https://silvesterspath.github.io/Landing-Page/',
   'https://silvesterspath.github.io/github_finder/',
-  'https://silvesterspath.github.io/MovieTime/',
+  /* 'https://silvesterspath.github.io/MovieTime/', */
   'https://silvesterspath.github.io/Book-My-Movie/',
   'https://silvesterspath.github.io/Incrementing-Counter/',
   'https://silvesterspath.github.io/Animated-Navigation/',
@@ -41,7 +41,7 @@ const images = [
   './img/meal.png',
   './img/landing.png',
   './img/github_finder.png',
-  './img/movie.png',
+  /* './img/movie.png', */
   './img/BookMyMovie.png',
   './img/counter.png',
   './img/animated_nav.png',
@@ -70,7 +70,7 @@ const texts = [
   'Find Your Meal',
   'Your Landing Page',
   'Gihub Finder',
-  'Find Your Movies',
+  /* 'Find Your Movies', */
   'Book My Movie',
   'Incrementing Counter',
   'Animated Navigation',
