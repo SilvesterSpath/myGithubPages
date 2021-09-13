@@ -6,6 +6,7 @@ console.log(container);
 const links = [
   'https://silvesterspath.github.io/Full-stack-MERN/',
   'https://silvesterspath.github.io/Full-stack-MEAN/',
+  'https://silvesterspath.github.io/Web-Speech/',
   'https://silvesterspath.github.io/Infinite-Blog/',
   'https://silvesterspath.github.io/Expense-Tracker/',
   'https://silvesterspath.github.io/Meal-Finder/',
@@ -34,6 +35,7 @@ const links = [
 const images = [
   './img/full-stack.png',
   './img/mean_stack.png',
+  './img/webspeech.png',
   './img/blog.png',
   './img/expenses.png',
   './img/meal.png',
@@ -62,6 +64,7 @@ const images = [
 const texts = [
   'Full-Stack MERN',
   'Full-Stack MEAN',
+  'Say My Words',
   'Infinite Blog',
   'Your Expenses',
   'Find Your Meal',
