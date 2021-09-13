@@ -6,13 +6,12 @@ console.log(container);
 const links = [
   'https://silvesterspath.github.io/Full-stack-MERN/',
   'https://silvesterspath.github.io/Full-stack-MEAN/',
-  'https://silvesterspath.github.io/Web-Speech/',
+  /* 'https://silvesterspath.github.io/Web-Speech/', */
   'https://silvesterspath.github.io/MovieTime/',
+  'https://silvesterspath.github.io/Meal-Finder/',
   'https://silvesterspath.github.io/SpeedTyper/',
-
   'https://silvesterspath.github.io/Infinite-Blog/',
   'https://silvesterspath.github.io/Expense-Tracker/',
-  'https://silvesterspath.github.io/Meal-Finder/',
   'https://silvesterspath.github.io/Landing-Page/',
   'https://silvesterspath.github.io/github_finder/',
   'https://silvesterspath.github.io/Book-My-Movie/',
@@ -37,13 +36,12 @@ const links = [
 const images = [
   './img/full-stack.png',
   './img/mean_stack.png',
-  './img/webspeech.png',
+  /* './img/webspeech.png', */
   './img/movie.png',
+  './img/meal.png',
   './img/speedtyper.png',
-
   './img/blog.png',
   './img/expenses.png',
-  './img/meal.png',
   './img/landing.png',
   './img/github_finder.png',
   './img/BookMyMovie.png',
@@ -68,12 +66,12 @@ const images = [
 const texts = [
   'Full-Stack MERN',
   'Full-Stack MEAN',
-  'Say My Words',
+  /* 'Say My Words', */
   'Find Your Movies',
+  'Find Your Meal',
   'Beat the Time',
   'Infinite Blog',
   'Your Expenses',
-  'Find Your Meal',
   'Your Landing Page',
   'Gihub Finder',
   'Book My Movie',
