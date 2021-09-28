@@ -9,7 +9,7 @@ const links = [
   'https://silvesterspath.github.io/Web-Speech/',
   'https://silvesterspath.github.io/MovieTime/',
   'https://silvesterspath.github.io/Meal-Finder/',
-  'https://silvesterspath.github.io/Sticky-Navbar/',
+  'https://silvesterspath.github.io/Lyrics/',
   'https://silvesterspath.github.io/Memory-Cards/',
   'https://silvesterspath.github.io/SpeedTyper/',
   'https://silvesterspath.github.io/Infinite-Blog/',
@@ -32,6 +32,7 @@ const links = [
   'https://silvesterspath.github.io/Exchange-Rate-Calculator/',
   'https://silvesterspath.github.io/Drawing-App/',
   'https://silvesterspath.github.io/DOM-Array-Methods/',
+  'https://silvesterspath.github.io/Sticky-Navbar/',
   '',
 ];
 
@@ -41,7 +42,7 @@ const images = [
   './img/webspeech.png',
   './img/movie.png',
   './img/meal.png',
-  './img/sticky.png',
+  './img/lyrics.png',
   './img/memory.png',
   './img/speedtyper.png',
   './img/blog.png',
@@ -64,6 +65,7 @@ const images = [
   './img/exchange.png',
   './img/drawing.png',
   './img/methods.png',
+  './img/sticky.png',
   './img/inprogress.jpg',
 ];
 
@@ -73,7 +75,7 @@ const texts = [
   'Say My Words',
   'Find Your Movies',
   'Find Your Meal',
-  'Glue My Navbar',
+  'Find Your Lyrics',
   'Train Your Memory...',
   'Beat the Time',
   'Infinite Blog',
@@ -96,6 +98,7 @@ const texts = [
   'Exchange Rate Calc',
   'Draw Your Circles!',
   'Array Methods',
+  'Glue My Navbar',
   'Coming soon...',
 ];
 
