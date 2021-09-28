@@ -75,7 +75,7 @@ const texts = [
   'Say My Words',
   'Find Your Movies',
   'Find Your Meal',
-  'Find Your Lyrics',
+  'Search For Lyrics',
   'Train Your Memory...',
   'Beat the Time',
   'Infinite Blog',
