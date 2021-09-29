@@ -33,7 +33,7 @@ const links = [
   'https://silvesterspath.github.io/Drag-and-Drop/',
   'https://silvesterspath.github.io/Drawing-App/',
   'https://silvesterspath.github.io/DOM-Array-Methods/',
-  'https://silvesterspath.github.io/Sticky-Navbar/',
+  /* 'https://silvesterspath.github.io/Sticky-Navbar/', */
   '',
 ];
 
@@ -67,7 +67,7 @@ const images = [
   './img/dragdrop.png',
   './img/drawing.png',
   './img/methods.png',
-  './img/sticky.png',
+  /* './img/sticky.png', */
   './img/inprogress.jpg',
 ];
 
@@ -101,11 +101,13 @@ const texts = [
   'Drag & Drop',
   'Draw Your Circles!',
   'Array Methods',
-  'Glue My Navbar',
+  /* 'Glue My Navbar', */
   'Coming soon...',
 ];
 
 window.addEventListener('scroll', checkBoxes);
+
+console.log(images.length);
 
 checkBoxes();
 
@@ -128,7 +130,7 @@ function checkBoxes() {
       i.classList.remove('show');
       count--;
     }
-    if (count > 9) {
+    if (count > images.length - 3) {
       scroll.children[3].style.visibility = 'hidden';
       scroll.children[1].style.visibility = 'visible';
     } else {
