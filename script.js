@@ -112,7 +112,7 @@ console.log(images.length);
 checkBoxes();
 
 function checkBoxes() {
-  const trigger = (window.innerHeight / 5) * 2;
+  const trigger = 380;
   let count = 0;
 
   boxes.forEach((i, index) => {
@@ -122,6 +122,7 @@ function checkBoxes() {
     i.setAttribute('href', `${links[index]}`);
     i.innerHTML = `<h3 >${texts[index]}</h3>`;
     const boxTop = i.getBoundingClientRect().top;
+    console.log(boxTop);
 
     if (boxTop < trigger) {
       i.classList.add('show');
@@ -130,6 +131,11 @@ function checkBoxes() {
       i.classList.remove('show');
       count--;
     }
+
+    if (count > images.length) {
+      i.classList.remove('show');
+    }
+
     if (count > images.length - 3) {
       scroll.children[3].style.visibility = 'hidden';
       scroll.children[1].style.visibility = 'visible';
