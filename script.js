@@ -34,6 +34,7 @@ const links = [
   /* 'https://silvesterspath.github.io/Ripple-Effect/', */
   'https://silvesterspath.github.io/Drag-and-Drop/',
   'https://silvesterspath.github.io/Drawing-App/',
+  'https://silvesterspath.github.io/Password-Generator/',
   'https://silvesterspath.github.io/DOM-Array-Methods/',
   /* 'https://silvesterspath.github.io/Sticky-Navbar/', */
   '',
@@ -68,8 +69,9 @@ const images = [
   './img/login.png',
   './img/keycode.png',
   /* './img/ripple.png', */
-  './img/dragdrop.png',
+  './img/drag.png',
   './img/drawing.png',
+  './img/password.png',
   './img/methods.png',
   /* './img/sticky.png', */
   './img/inprogress.jpg',
@@ -106,6 +108,7 @@ const texts = [
   /* 'Ripple Effect', */
   'Drag & Drop',
   'Draw Your Circles!',
+  'Generate Passwords',
   'Array Methods',
   /* 'Glue My Navbar', */
   'Coming soon...',
