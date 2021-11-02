@@ -5,6 +5,7 @@ console.log(container);
 
 const links = [
   /* 'https://silvesterspath.github.io/Countdown/', */
+  'https://silvesterspath.github.io/HoverBoard/',
   'https://silvesterspath.github.io/Full-stack-MERN/',
   'https://silvesterspath.github.io/Full-stack-MEAN/',
   'https://silvesterspath.github.io/Web-Speech/',
@@ -43,6 +44,7 @@ const links = [
 
 const images = [
   /* './img/halloween.png', */
+  './img/hover.png',
   './img/full-stack.png',
   './img/mean_stack.png',
   './img/webspeech.png',
@@ -81,6 +83,7 @@ const images = [
 
 const texts = [
   /* 'Be afraid...', */
+  'Hover over...',
   'Full-Stack MERN',
   'Full-Stack MEAN',
   'Say My Words',
