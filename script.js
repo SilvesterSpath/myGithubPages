@@ -87,7 +87,7 @@ const images = [
 
 const texts = [
   /* 'Be afraid...', */
-  'the Oscar goes to..',
+  'Vote for the oscars',
   "Spar'o bucks",
   'Hover over...',
   'Full-Stack MERN',
