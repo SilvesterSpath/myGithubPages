@@ -5,7 +5,7 @@ console.log(container);
 
 const links = [
   /* 'https://silvesterspath.github.io/Countdown/', */
-  'https://oscars-2022-fst97nsb9-silvesterspath.vercel.app/',
+  'https://oscars-2022-silvesterspath.vercel.app/',
   'https://silvesterspath.github.io/spar-some-bucks/',
   'https://silvesterspath.github.io/HoverBoard/',
   'https://silvesterspath.github.io/Full-stack-MERN/',
