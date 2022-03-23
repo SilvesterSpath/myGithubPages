@@ -5,6 +5,7 @@ console.log(container);
 
 const links = [
   /* 'https://silvesterspath.github.io/Countdown/', */
+  'https://oscars-2022-fst97nsb9-silvesterspath.vercel.app/',
   'https://silvesterspath.github.io/spar-some-bucks/',
   'https://silvesterspath.github.io/HoverBoard/',
   'https://silvesterspath.github.io/Full-stack-MERN/',
@@ -45,6 +46,7 @@ const links = [
 
 const images = [
   /* './img/halloween.png', */
+  './img/oscars.png',
   './img/spar.png',
   './img/hover.png',
   './img/full-stack.png',
@@ -85,6 +87,7 @@ const images = [
 
 const texts = [
   /* 'Be afraid...', */
+  'the Oscar goes to..',
   "Spar'o bucks",
   'Hover over...',
   'Full-Stack MERN',
