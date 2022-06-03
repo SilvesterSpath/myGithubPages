@@ -9,7 +9,7 @@ const links = [
   /* 'https://silvesterspath.github.io/spar-some-bucks/', */
   'https://silvesterspath.github.io/HoverBoard/',
   'https://silvesterspath.github.io/Full-stack-MERN/',
-  'https://silvesterspath.github.io/Full-stack-MEAN/',
+  /* 'https://silvesterspath.github.io/Full-stack-MEAN/', */
   'https://silvesterspath.github.io/Web-Speech/',
   'https://silvesterspath.github.io/MovieTime/',
   'https://silvesterspath.github.io/Relaxer/',
@@ -50,7 +50,7 @@ const images = [
   /* './img/spar.png', */
   './img/hover.png',
   './img/full-stack.png',
-  './img/mean_stack.png',
+  /* './img/mean_stack.png', */
   './img/webspeech.png',
   './img/movie.png',
   './img/breathe.png',
@@ -91,7 +91,7 @@ const texts = [
   /* "Spar'o bucks", */
   'Hover over...',
   'Full-Stack MERN',
-  'Full-Stack MEAN',
+  /* 'Full-Stack MEAN', */
   'Say My Words',
   'Find Your Movies',
   'Relax Your Body..',
