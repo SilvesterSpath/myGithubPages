@@ -23,7 +23,7 @@ const links = [
   'https://silvesterspath.github.io/Memory-Cards/',
   'https://silvesterspath.github.io/SpeedTyper/',
   'https://silvesterspath.github.io/Infinite-Blog/',
-  'https://silvesterspath.github.io/Expense-Tracker/',
+  /* 'https://silvesterspath.github.io/Expense-Tracker/', */
   'https://silvesterspath.github.io/github_finder/',
   'https://silvesterspath.github.io/Book-My-Movie/',
   'https://silvesterspath.github.io/Incrementing-Counter/',
@@ -39,7 +39,7 @@ const links = [
   'https://silvesterspath.github.io/Drag-and-Drop/',
   'https://silvesterspath.github.io/Drawing-App/',
   'https://silvesterspath.github.io/Password-Generator/',
-  'https://silvesterspath.github.io/DOM-Array-Methods/',
+  /* 'https://silvesterspath.github.io/DOM-Array-Methods/', */
   /* 'https://silvesterspath.github.io/Sticky-Navbar/', */
   '',
 ];
@@ -64,7 +64,7 @@ const images = [
   './img/memory.png',
   './img/speedtyper.png',
   './img/blog.png',
-  './img/expenses.png',
+  /* './img/expenses.png', */
   './img/github_finder.png',
   './img/BookMyMovie.png',
   './img/counter.png',
@@ -80,7 +80,7 @@ const images = [
   './img/drag.png',
   './img/drawing.png',
   './img/password.png',
-  './img/methods.png',
+  /* './img/methods.png', */
   /* './img/sticky.png', */
   './img/inprogress.jpg',
 ];
@@ -105,7 +105,7 @@ const texts = [
   'Train Your Memory...',
   'Beat the Time',
   'Infinite Blog',
-  'Your Expenses',
+  /* 'Your Expenses', */
   'Gihub Finder',
   'Book My Movie',
   'Incrementing Counter',
@@ -121,7 +121,7 @@ const texts = [
   'Drag & Drop',
   'Draw Your Circles!',
   'Generate Passwords',
-  'Array Methods',
+  /* 'Array Methods', */
   /* 'Glue My Navbar', */
   'Coming soon...',
 ];
